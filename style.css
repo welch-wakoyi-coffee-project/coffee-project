@@ -21,3 +21,12 @@ td, th {
 body{
     background-color: bisque;
 }
+
+.btn:hover {
+    background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+    background-color:#ffab23;
+}
+.btn:active {
+    position:relative;
+    top:1px;
+}
